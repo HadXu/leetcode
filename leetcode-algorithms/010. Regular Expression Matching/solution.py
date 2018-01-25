@@ -17,7 +17,6 @@ def isMatch(s, p):
 		if p[i-1] == '*':
 			dp[0][i] = dp[0][i-2]
 
-	print(dp)
 
 	for i in range(1,len(s)+1):
 		for j in range(1,len(p)+1):
@@ -29,12 +28,16 @@ def isMatch(s, p):
 						dp[i][j] = dp[i][j-2] or dp[i-1][j]
 					else:
 						dp[i][j] = dp[i][j-2]
+		print(dp)
+
+
+
 
 	return dp[len(s)][len(p)]
 
 
 if __name__ == '__main__':
-	s = 'abcdd'
-	p = 'a*b'
+	s = 'abbb'
+	p = 'ab*'
 	print(isMatch(s,p))
 
