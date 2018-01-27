@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-01-27 10:08:19, I have solved **13** / **686** problems while **126** are still locked.
+Until 2018-01-27 10:16:04, I have solved **13** / **686** problems while **126** are still locked.
 
 Completion statistic: 
-1. JavaScript: 0 
+1. Go: 0 
 2. Python++: 13
 3. C++: 13
 4. Java: 0
@@ -11,7 +11,7 @@ Note: :lock: means you need to buy a book from LeetCode
 
 ----------------
 ## LeetCode Solution Table
-| ID | Title | Difficulty | JavaScript | Python | C++ | Java |
+| ID | Title | Difficulty | Go | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/solution/001.%20Two%20Sum/answer.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/solution/001.%20Two%20Sum/answer.cpp)|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/solution/002.%20Add%20Two%20Numbers/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/solution/002.%20Add%20Two%20Numbers/solution.cpp)|To Do|
