@@ -20,3 +20,11 @@ for i in range(min(len(strs[0]),len(strs[-1]))):
 		break
 	res += strs[0][i]
 ```
+
+
+
+
+
+
+https://github.com/Hadxu/leetcode/blob/master/solution/001.%20Two%20Sum/answer.cpp
+https://github.com/HadXu/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/answer.py
