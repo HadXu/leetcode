@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-01-27 10:16:04, I have solved **13** / **686** problems while **126** are still locked.
+Until 2018-01-28 09:44:21, I have solved **14** / **686** problems while **126** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 13
-3. C++: 13
+2. Python++: 14
+3. C++: 14
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -26,7 +26,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/solution/011.%20Container%20With%20Most%20Water/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/solution/011.%20Container%20With%20Most%20Water/solution.cpp)|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/solution/012.%20Integer%20to%20Roman/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/solution/012.%20Integer%20to%20Roman/solution.cpp)|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/solution/013.%20Roman%20to%20Integer/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/solution/013.%20Roman%20to%20Integer/solution.cpp)|To Do|
-|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|To Do|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/solution/014.%20Longest%20Common%20Prefix/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/solution/014.%20Longest%20Common%20Prefix/aolution.cpp)|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
