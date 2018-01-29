@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-01-28 09:47:46, I have solved **14** / **686** problems while **126** are still locked.
+Until 2018-01-29 10:39:30, I have solved **15** / **690** problems while **126** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 14
-3. C++: 14
+2. Python++: 15
+3. C++: 15
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -27,7 +27,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/012.%20Integer%20to%20Roman/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/012.%20Integer%20to%20Roman/solution.cpp)|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/solution.cpp)|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/aolution.cpp)|To Do|
-|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/015.%203Sum/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/015.%203Sum/solution.cpp)|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -698,4 +698,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|To Do|To Do|To Do|To Do|
 |770|[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/description/) |Hard|To Do|To Do|To Do|To Do|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) |Easy|To Do|To Do|To Do|To Do|
 |772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) |Hard|To Do|To Do|To Do|To Do|
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard|To Do|To Do|To Do|To Do|
+|774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) |Hard|To Do|To Do|To Do|To Do|
+|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) |Medium|To Do|To Do|To Do|To Do|
