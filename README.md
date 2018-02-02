@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-02-01 11:11:21, I have solved **18** / **690** problems while **131** are still locked.
+Until 2018-02-02 14:20:15, I have solved **19** / **690** problems while **131** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 18
-3. C++: 18
+2. Python++: 19
+3. C++: 19
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -31,7 +31,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/016.%203Sum%20Closest/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/016.%203Sum%20Closest/solution.cpp)|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.cpp)|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/018.%204Sum/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/018.%204Sum/solution.cpp)|To Do|
-|019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.cpp)|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
