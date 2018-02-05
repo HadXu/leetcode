@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-02-03 11:19:18, I have solved **20** / **690** problems while **131** are still locked.
+Until 2018-02-05 19:33:06, I have solved **21** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 20
-3. C++: 20
+2. Python++: 21
+3. C++: 21
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -33,7 +33,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/018.%204Sum/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/018.%204Sum/solution.cpp)|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.cpp)|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/solution.cpp)|To Do|
-|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
+|021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -703,3 +703,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard|To Do|To Do|To Do|To Do|
 |774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) |Medium|To Do|To Do|To Do|To Do|
+|776|[Split BST](https://leetcode.com/problems/split-bst/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) |Medium|To Do|To Do|To Do|To Do|
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |Hard|To Do|To Do|To Do|To Do|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) |Medium|To Do|To Do|To Do|To Do|
