@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-02-06 10:22:05, I have solved **22** / **694** problems while **132** are still locked.
+Until 2018-02-07 11:30:34, I have solved **23** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 22
-3. C++: 22
+2. Python++: 23
+3. C++: 23
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -35,7 +35,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/solution.cpp)|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/solution.cpp)|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/solution.cpp)|To Do|
-|023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
+|023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists/solution.cpp)|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|
