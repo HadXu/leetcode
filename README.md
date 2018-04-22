@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-19 21:29:08, I have solved **31** / **734** problems while **133** are still locked.
+Until 2018-04-22 09:44:06, I have solved **33** / **734** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 30
-3. C++: 31
+2. Python++: 33
+3. C++: 33
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -45,8 +45,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|To Do|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/031.%20Next%20Permutation/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/031.%20Next%20Permutation/solution.cpp)|To Do|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
-|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|To Do|To Do|To Do|
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/solution.cpp)|To Do|
+|034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/solution.py)|To Do|To Do|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/solution.cpp)|To Do|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -62,7 +62,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
-|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|To Do|
+|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/solution.cpp)|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|To Do|To Do|
