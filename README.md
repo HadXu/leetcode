@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-22 09:44:06, I have solved **33** / **734** problems while **133** are still locked.
+Until 2018-04-23 14:41:13, I have solved **35** / **738** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 33
-3. C++: 33
+2. Python++: 35
+3. C++: 34
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -60,8 +60,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|To Do|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|To Do|
-|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/048.%20Rotate%20Image/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/048.%20Rotate%20Image/solution.cpp)|To Do|
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/solution.py)|To Do|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/solution.cpp)|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -747,3 +747,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) |Medium|To Do|To Do|To Do|To Do|
 |818|[Race Car](https://leetcode.com/problems/race-car/description/) |Hard|To Do|To Do|To Do|To Do|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|To Do|To Do|To Do|To Do|
+|820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/) |Medium|To Do|To Do|To Do|To Do|
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) |Easy|To Do|To Do|To Do|To Do|
+|822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/) |Medium|To Do|To Do|To Do|To Do|
