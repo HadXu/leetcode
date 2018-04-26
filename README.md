@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-23 20:16:14, I have solved **36** / **738** problems while **133** are still locked.
+Until 2018-04-26 10:43:51, I have solved **38** / **738** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 36
-3. C++: 35
+2. Python++: 38
+3. C++: 36
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -655,7 +655,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) |Medium|To Do|To Do|To Do|To Do|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/) |Hard|To Do|To Do|To Do|To Do|
 |727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) |Easy|To Do|To Do|To Do|To Do|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/728.%20Self%20Dividing%20Numbers/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/728.%20Self%20Dividing%20Numbers/solution.cpp)|To Do|
 |729|[My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) |Medium|To Do|To Do|To Do|To Do|
 |730|[Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
 |731|[My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -746,7 +746,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/) |Medium|To Do|To Do|To Do|To Do|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) |Medium|To Do|To Do|To Do|To Do|
 |818|[Race Car](https://leetcode.com/problems/race-car/description/) |Hard|To Do|To Do|To Do|To Do|
-|819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|To Do|To Do|To Do|To Do|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/819.%20Most%20Common%20Word/solution.py)|To Do|To Do|
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/) |Medium|To Do|To Do|To Do|To Do|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) |Easy|To Do|To Do|To Do|To Do|
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) |Medium|To Do|To Do|To Do|To Do|
