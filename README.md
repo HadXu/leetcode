@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-04-26 10:43:51, I have solved **38** / **738** problems while **133** are still locked.
+Until 2018-04-28 20:00:21, I have solved **40** / **738** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 38
-3. C++: 36
+2. Python++: 40
+3. C++: 38
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -362,7 +362,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/description/) |Medium|To Do|To Do|To Do|To Do|
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) |Easy|To Do|To Do|To Do|To Do|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/367.%20Valid%20Perfect%20Square/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/367.%20Valid%20Perfect%20Square/solution.cpp)|To Do|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) |Medium|To Do|To Do|To Do|To Do|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |370|[Range Addition](https://leetcode.com/problems/range-addition/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
@@ -572,7 +572,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|To Do|To Do|To Do|To Do|
 |631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |632|[Smallest Range](https://leetcode.com/problems/smallest-range/description/) |Hard|To Do|To Do|To Do|To Do|
-|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|To Do|To Do|To Do|To Do|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/633.%20Sum%20of%20Square%20Numbers/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/633.%20Sum%20of%20Square%20Numbers/solution.cpp)|To Do|
 |634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) |Medium|To Do|To Do|To Do|To Do|
