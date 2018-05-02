@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-05-01 16:10:26, I have solved **45** / **742** problems while **133** are still locked.
+Until 2018-05-02 11:39:49, I have solved **47** / **742** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 45
-3. C++: 40
+2. Python++: 47
+3. C++: 41
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -48,8 +48,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Array/solution.cpp)|To Do|
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/034.%20Search%20for%20a%20Range/solution.py)|To Do|To Do|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/solution.cpp)|To Do|
-|036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|To Do|
-|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
+|036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/solution.py)|To Do|To Do|
+|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/solution.cpp)|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|To Do|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/039.%20Combination%20Sum/solution.py)|To Do|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
