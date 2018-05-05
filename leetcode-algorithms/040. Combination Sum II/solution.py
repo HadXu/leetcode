@@ -11,7 +11,9 @@ def combinationSum(candidates, target):
 			res.append(path)
 			return
 		for i in range(index, len(nums)):
-			dfs(nums, target-nums[i], i, path + [nums[i]], res)
+			if i > index and nums[i] == nums[i-1]:
+				continue
+			dfs(nums, target-nums[i], i+1, path + [nums[i]], res)
 
 	res = []
 	candidates.sort()
@@ -21,7 +23,7 @@ def combinationSum(candidates, target):
 
 
 if __name__ == '__main__':
-	candidates = [2,3,5]
-	target = 8
+	candidates = [2,5,2,1,2]
+	target = 5
 	res = combinationSum(candidates,target)
 	print(res)

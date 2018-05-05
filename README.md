@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-05-03 11:09:41, I have solved **49** / **742** problems while **133** are still locked.
+Until 2018-05-05 21:35:16, I have solved **52** / **742** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 49
-3. C++: 41
+2. Python++: 52
+3. C++: 44
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -51,11 +51,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/036.%20Valid%20Sudoku/solution.py)|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/037.%20Sudoku%20Solver/solution.cpp)|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/038.%20Count%20and%20Say/solution.py)|To Do|To Do|
-|039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/039.%20Combination%20Sum/solution.py)|To Do|To Do|
-|040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
+|039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/039.%20Combination%20Sum/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/039.%20Combination%20Sum/solution.cpp)|To Do|
+|040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/solution.cpp)|To Do|
+|041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/solution.py)|To Do|To Do|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
-|043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|To Do|To Do|
+|043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/043.%20Multiply%20Strings/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/043.%20Multiply%20Strings/solution.cpp)|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|To Do|
