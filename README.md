@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-05-05 21:35:16, I have solved **52** / **742** problems while **133** are still locked.
+Until 2018-05-16 18:59:27, I have solved **58** / **750** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 52
+2. Python++: 58
 3. C++: 44
 4. Java: 0
 
@@ -67,9 +67,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|To Do|To Do|To Do|To Do|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
-|055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|To Do|To Do|To Do|
-|056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
-|057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|To Do|To Do|To Do|To Do|
+|055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/055.%20Jump%20Game/solution.py)|To Do|To Do|
+|056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/056.%20Merge%20Intervals/solution.py)|To Do|To Do|
+|057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/057.%20Insert%20Interval/solution.py)|To Do|To Do|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/058.%20Length%20of%20Last%20Word/solution.cpp)|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -85,7 +85,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|To Do|To Do|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|To Do|To Do|To Do|To Do|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|
-|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|To Do|To Do|
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/073.%20Set%20Matrix%20Zeroes/solution.py)|To Do|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -160,7 +160,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|To Do|To Do|To Do|To Do|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|To Do|To Do|To Do|To Do|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|To Do|To Do|To Do|To Do|
-|148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/148.%20Sort%20List/solution.py)|To Do|To Do|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|To Do|To Do|To Do|To Do|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |Medium|To Do|To Do|To Do|To Do|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -755,3 +755,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) |Medium|To Do|To Do|To Do|To Do|
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) |Medium|To Do|To Do|To Do|To Do|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) |Hard|To Do|To Do|To Do|To Do|
+|828|[Unique Letter String](https://leetcode.com/problems/unique-letter-string/description/) |Hard|To Do|To Do|To Do|To Do|
+|829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/solution.py)|To Do|To Do|
+|831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|To Do|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|To Do|
+|833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
+|834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|To Do|
+|835|[Image Overlap](https://leetcode.com/problems/image-overlap/description/) |Medium|To Do|To Do|To Do|To Do|
