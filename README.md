@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-05-16 18:59:27, I have solved **58** / **750** problems while **133** are still locked.
+Until 2018-05-20 11:21:49, I have solved **61** / **754** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 58
+2. Python++: 61
 3. C++: 44
 4. Java: 0
 
@@ -54,7 +54,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/039.%20Combination%20Sum/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/039.%20Combination%20Sum/solution.cpp)|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20II/solution.cpp)|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/041.%20First%20Missing%20Positive/solution.py)|To Do|To Do|
-|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|To Do|
+|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/solution.py)|To Do|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/043.%20Multiply%20Strings/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/043.%20Multiply%20Strings/solution.cpp)|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -76,7 +76,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|To Do|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/064.%20Minimum%20Path%20Sum/solution.py)|To Do|To Do|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|To Do|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -395,7 +395,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|To Do|To Do|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|To Do|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|To Do|To Do|
-|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|To Do|To Do|To Do|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/400.%20Nth%20Digit/solution.py)|To Do|To Do|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/401.%20Binary%20Watch/solution.py)|To Do|To Do|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|To Do|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -763,3 +763,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |835|[Image Overlap](https://leetcode.com/problems/image-overlap/description/) |Medium|To Do|To Do|To Do|To Do|
+|836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) |Easy|To Do|To Do|To Do|To Do|
+|837|[New 21 Game](https://leetcode.com/problems/new-21-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) |Medium|To Do|To Do|To Do|To Do|
+|839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |Hard|To Do|To Do|To Do|To Do|
