@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-05-20 11:21:49, I have solved **61** / **754** problems while **133** are still locked.
+Until 2018-05-21 16:04:17, I have solved **66** / **754** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 61
+2. Python++: 66
 3. C++: 44
 4. Java: 0
 
@@ -84,7 +84,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|To Do|To Do|To Do|To Do|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|To Do|To Do|To Do|To Do|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|To Do|To Do|To Do|To Do|
-|072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|To Do|To Do|
+|072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/072.%20Edit%20Distance/solution.py)|To Do|To Do|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/073.%20Set%20Matrix%20Zeroes/solution.py)|To Do|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -108,7 +108,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|To Do|To Do|
+|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/096.%20Unique%20Binary%20Search%20Trees/solution.py)|To Do|To Do|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|To Do|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -132,7 +132,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|To Do|To Do|To Do|To Do|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|To Do|To Do|
-|120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|To Do|To Do|To Do|To Do|
+|120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/120.%20Triangle/solution.py)|To Do|To Do|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|To Do|To Do|To Do|To Do|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -372,7 +372,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|To Do|To Do|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
-|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|To Do|To Do|To Do|To Do|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/377.%20Combination%20Sum%20IV/solution.py)|To Do|To Do|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|To Do|To Do|To Do|To Do|

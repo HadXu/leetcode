@@ -11,7 +11,7 @@ def findNthDigit(n):
 	return str(res[n-1])
 
 if __name__ == '__main__':
-	n = 100000000
+	n = 1000000
 	res = findNthDigit(n)
 	print(res)
 
