@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-05-21 16:04:17, I have solved **66** / **754** problems while **133** are still locked.
+Until 2018-05-22 15:29:33, I have solved **69** / **754** problems while **133** are still locked.
 
 Completion statistic: 
 1. Go: 0 
-2. Python++: 66
-3. C++: 44
+2. Python++: 69
+3. C++: 46
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -164,7 +164,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|To Do|To Do|To Do|To Do|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |Medium|To Do|To Do|To Do|To Do|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) |Medium|To Do|To Do|To Do|To Do|
-|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|To Do|To Do|To Do|To Do|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/152.%20Maximum%20Product%20Subarray/solution.py)|To Do|To Do|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -560,14 +560,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |Easy|To Do|To Do|To Do|To Do|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |Medium|To Do|To Do|To Do|To Do|
-|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) |Medium|To Do|To Do|To Do|To Do|
+|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/611.%20Valid%20Triangle%20Number/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/611.%20Valid%20Triangle%20Number/solution.cpp)|To Do|
 |616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |Easy|To Do|To Do|To Do|To Do|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |Medium|To Do|To Do|To Do|To Do|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|To Do|To Do|To Do|To Do|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/628.%20Maximum%20Product%20of%20Three%20Numbers/solution.cpp)|To Do|
 |629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) |Hard|To Do|To Do|To Do|To Do|
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|To Do|To Do|To Do|To Do|
 |631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
