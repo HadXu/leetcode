@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-11-14 21:00:09, I have solved **72** / **887** problems while **139** are still locked.
+Until 2018-11-14 21:55:30, I have solved **72** / **887** problems while **139** are still locked.
 
 Completion statistic: 
-1. Go: 0 
+1. Go: 2 
 2. Python++: 72
 3. C++: 47
 4. Java: 0
@@ -13,7 +13,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Go | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/answer.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/answer.cpp)|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Go](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/solution.go)|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/answer.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/001.%20Two%20Sum/answer.cpp)|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/solution.cpp)|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/answer.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/answer.cpp)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/solution.cpp)|To Do|
@@ -832,7 +832,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) |Easy|To Do|To Do|To Do|To Do|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |Medium|To Do|To Do|To Do|To Do|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.cpp)|To Do|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|[Go](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.go)|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/876.%20Middle%20of%20the%20Linked%20List/solution.cpp)|To Do|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) |Hard|To Do|To Do|To Do|To Do|
 |879|[Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) |Hard|To Do|To Do|To Do|To Do|
