@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-11-14 21:55:30, I have solved **72** / **887** problems while **139** are still locked.
+Until 2018-11-19 16:00:15, I have solved **75** / **891** problems while **139** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 72
-3. C++: 47
+2. Python++: 75
+3. C++: 48
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -203,7 +203,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|To Do|To Do|To Do|To Do|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|To Do|To Do|To Do|To Do|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|To Do|To Do|To Do|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/207.%20Course%20Schedule/solution.py)|To Do|To Do|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -381,7 +381,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|To Do|To Do|To Do|To Do|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|To Do|To Do|To Do|To Do|
-|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/386.%20Lexicographical%20Numbers/solution.py)|To Do|To Do|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|To Do|To Do|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -775,7 +775,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game/description/) |Medium|To Do|To Do|To Do|To Do|
 |823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/description/) |Medium|To Do|To Do|To Do|To Do|
 |708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/) |Easy|To Do|To Do|To Do|To Do|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/824.%20Goat%20Latin/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/824.%20Goat%20Latin/solution.cpp)|To Do|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/description/) |Medium|To Do|To Do|To Do|To Do|
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/) |Medium|To Do|To Do|To Do|To Do|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -900,3 +900,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Medium|To Do|To Do|To Do|To Do|
 |939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|To Do|To Do|To Do|To Do|
 |940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/description/) |Easy|To Do|To Do|To Do|To Do|
+|943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) |Hard|To Do|To Do|To Do|To Do|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |Medium|To Do|To Do|To Do|To Do|
