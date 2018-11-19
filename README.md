@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-11-19 16:00:15, I have solved **75** / **891** problems while **139** are still locked.
+Until 2018-11-19 17:04:41, I have solved **76** / **891** problems while **139** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 75
+2. Python++: 76
 3. C++: 48
 4. Java: 0
 
@@ -856,7 +856,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|To Do|To Do|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|To Do|To Do|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|To Do|To Do|
-|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/896.%20Monotonic%20Array/solution.py)|To Do|To Do|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |Medium|To Do|To Do|To Do|To Do|
 |899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) |Hard|To Do|To Do|To Do|To Do|
