@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-11-19 17:04:41, I have solved **76** / **891** problems while **139** are still locked.
+Until 2018-11-20 08:49:12, I have solved **77** / **891** problems while **139** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 76
+2. Python++: 77
 3. C++: 48
 4. Java: 0
 
@@ -675,7 +675,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|To Do|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|To Do|To Do|To Do|
 |742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Easy|To Do|To Do|To Do|To Do|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/743.%20Network%20Delay%20Time/solution.py)|To Do|To Do|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|To Do|To Do|To Do|
 |745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) |Hard|To Do|To Do|To Do|To Do|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|To Do|To Do|To Do|To Do|
