@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-11-20 08:49:12, I have solved **77** / **891** problems while **139** are still locked.
+Until 2018-11-20 15:27:07, I have solved **78** / **891** problems while **139** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 77
+2. Python++: 78
 3. C++: 48
 4. Java: 0
 
@@ -220,7 +220,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/) |Medium|To Do|To Do|To Do|To Do|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) |Medium|To Do|To Do|To Do|To Do|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) |Medium|To Do|To Do|To Do|To Do|
-|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|To Do|To Do|To Do|To Do|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/224.%20Basic%20Calculator/solution.py)|To Do|To Do|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |Easy|To Do|To Do|To Do|To Do|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|To Do|To Do|To Do|To Do|
