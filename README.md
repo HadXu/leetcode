@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-11-20 15:27:07, I have solved **78** / **891** problems while **139** are still locked.
+Until 2018-11-21 09:34:08, I have solved **79** / **891** problems while **139** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 78
+2. Python++: 79
 3. C++: 48
 4. Java: 0
 
@@ -313,7 +313,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |Hard|To Do|To Do|To Do|To Do|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/) |Hard|To Do|To Do|To Do|To Do|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) |Medium|To Do|To Do|To Do|To Do|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/318.%20Maximum%20Product%20of%20Word%20Lengths/solution.py)|To Do|To Do|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) |Medium|To Do|To Do|To Do|To Do|
 |320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/description/) |Hard|To Do|To Do|To Do|To Do|
