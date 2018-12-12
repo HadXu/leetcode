@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-12-10 15:13:27, I have solved **83** / **903** problems while **139** are still locked.
+Until 2018-12-12 16:16:49, I have solved **86** / **903** problems while **139** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 83
-3. C++: 50
+2. Python++: 86
+3. C++: 51
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -59,7 +59,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|To Do|
-|047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/047.%20Permutations%20II/solution.py)|To Do|To Do|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/048.%20Rotate%20Image/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/048.%20Rotate%20Image/solution.cpp)|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/049.%20Group%20Anagrams/solution.py)|To Do|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/solution.cpp)|To Do|
@@ -673,7 +673,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |Medium|To Do|To Do|To Do|To Do|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) |Medium|To Do|To Do|To Do|To Do|
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|To Do|
-|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|To Do|To Do|To Do|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/solution.py)|To Do|To Do|
 |742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/743.%20Network%20Delay%20Time/solution.py)|To Do|To Do|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -905,7 +905,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) |Hard|To Do|To Do|To Do|To Do|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |Easy|To Do|To Do|To Do|To Do|
 |945|[Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/) |Medium|To Do|To Do|To Do|To Do|
-|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/946.%20Validate%20Stack%20Sequences/solution.py)|[C++](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/946.%20Validate%20Stack%20Sequences/solution.cpp)|To Do|
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) |Medium|To Do|To Do|To Do|To Do|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/) |Medium|To Do|To Do|To Do|To Do|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/) |Easy|To Do|To Do|To Do|To Do|
