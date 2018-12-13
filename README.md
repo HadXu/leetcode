@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-12-12 16:16:49, I have solved **86** / **903** problems while **139** are still locked.
+Until 2018-12-13 14:38:18, I have solved **88** / **903** problems while **139** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 86
+2. Python++: 88
 3. C++: 51
 4. Java: 0
 
@@ -310,7 +310,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/description/) |Hard|To Do|To Do|To Do|To Do|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |Hard|To Do|To Do|To Do|To Do|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/315.%20Count%20of%20Smaller%20Numbers%20After%20Self/solution.py)|To Do|To Do|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/) |Hard|To Do|To Do|To Do|To Do|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/318.%20Maximum%20Product%20of%20Word%20Lengths/solution.py)|To Do|To Do|
@@ -876,7 +876,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) |Easy|To Do|To Do|To Do|To Do|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/description/) |Medium|To Do|To Do|To Do|To Do|
-|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) |Easy|To Do|To Do|To Do|To Do|
+|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) |Easy|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/917.%20Reverse%20Only%20Letters/solution.py)|To Do|To Do|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) |Medium|To Do|To Do|To Do|To Do|
 |919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) |Medium|To Do|To Do|To Do|To Do|
 |920|[Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) |Hard|To Do|To Do|To Do|To Do|
