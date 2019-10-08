@@ -20,6 +20,6 @@ class Solution:
 
 if __name__ == '__main__':
 	s = Solution()
-	ss = 'abcababcdefg'
+	ss = 'abba'
 	res = s.lengthOfLongestSubstring(ss)
 	print(res)
