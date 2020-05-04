@@ -29,7 +29,7 @@ def trap(height):
 
 
 if __name__ == '__main__':
-	height = [0,1,0,8]
+	height = [0,1,0,2,1,0,1,3,2,1,2,1]
 
 	res = trap(height)
   

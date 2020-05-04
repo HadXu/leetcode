@@ -19,7 +19,7 @@ def minDistance(word1, word2):
 			if word1[i-1] == word2[j-1]:
 				dp[i][j] = dp[i-1][j-1]
 			else:
-				dp[i][j] = min(dp[i-1][j-1]+1,dp[i-1][j]+1,dp[i][j-1]+1)
+				dp[i][j] = min(dp[i-1][j-1],dp[i-1][j],dp[i][j-1]) + 1
 	print(np.array(dp))
 	return dp[m][n]
 
@@ -28,7 +28,7 @@ def minDistance(word1, word2):
 
 
 if __name__ == '__main__':
-	word1 = 'intention'
+	word1 = 'entention'
 	word2 = 'execution'
 
 	res = minDistance(word1,word2)
