@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2020-05-04 23:28:08, I have solved **122** / **1318** problems while **213** are still locked.
+Until 2020-05-06 22:13:46, I have solved **124** / **1318** problems while **213** are still locked.
 
 Completion statistic: 
 1. Go: 2 
-2. Python++: 122
+2. Python++: 124
 3. C++: 52
 4. Java: 0
 
@@ -209,7 +209,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design/solution.py)|To Do|To Do|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/212.%20Word%20Search%20II/solution.py)|To Do|To Do|
-|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/213.%20House%20Robber%20II/solution.py)|To Do|To Do|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/216.%20Combination%20Sum%20III/solution.py)|To Do|To Do|
@@ -349,7 +349,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |Hard|To Do|To Do|To Do|To Do|
 |353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |Hard|To Do|To Do|To Do|To Do|
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |Hard|To Do|[Python](https://github.com/Hadxu/leetcode/blob/master/leetcode-algorithms/354.%20Russian%20Doll%20Envelopes/solution.py)|To Do|To Do|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/) |Medium|To Do|To Do|To Do|To Do|
 |356|[Line Reflection](https://leetcode.com/problems/line-reflection/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/) |Medium|To Do|To Do|To Do|To Do|

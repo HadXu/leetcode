@@ -29,17 +29,18 @@ class Solution:
 					res = min(res, not_broken + 1)
 
 			cache[(k,n)] = res
-
 			return res
 
 		return dp(K, N)
 
 
+
 if __name__ == '__main__':
-	K = 6000
-	N = 100000
+	K = 6
+	N = 5000
 
 	res = Solution().superEggDrop(K, N)
 
 	print(res)
+
 
